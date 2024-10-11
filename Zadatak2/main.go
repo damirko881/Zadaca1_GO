@@ -13,6 +13,7 @@ func main() {
 	var lastName string
 	lastName = "Mihajlović"
 
+	//Nemoguće je koristit konstantu jer first i last name su varijable
 	var fullname string
 	fullname = firstName + " " + lastName
 
